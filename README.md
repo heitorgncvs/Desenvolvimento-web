@@ -1,4 +1,4 @@
 # Desenvolvimento-web3
 Primeiro repositorio dia 28/08/2024.
 
-Nome: Heitor August Gonaçalves
+Nome: Heitor Augusto Gonaçalves
